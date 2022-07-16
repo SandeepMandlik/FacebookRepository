@@ -9,6 +9,7 @@ public static void main(String[] args) {
 	
 	//import poject in new workspace by dev3
 	System.out.println("new changes in anather workspace");
+	System.out.println("remote changes updated");//dierectly updated in msterbranch
 }
 	
 }
